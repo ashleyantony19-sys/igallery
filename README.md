@@ -101,8 +101,7 @@ footer
 { src: "vijay.png", caption: "THALAPATHY VIJAY" },
 { src: "khan.png", caption: "SHAH RUKH KHAN" },
 { src: "devar.png", caption: "VIJAY DEVARKONDA" },
-{ src: "arjun.png", caption: "ALLU ARJUN" },
-{ src: "roshan.png", caption: "HRITHIK ROSHAN" },
+{ src: "roshan.png", caption: "HRITHIK ROSHAN" }
 
 ];
 let currentIndex = 0;
@@ -134,15 +133,13 @@ updateGallery( );
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2026-03-31 211324.png>)
+![alt text](image.png)
 
-![alt text](<Screenshot 2026-03-31 211340.png>)
+![alt text](image-1.png)
 
-![alt text](<Screenshot (27).png>)
+![alt text](image-2.png)
 
-![alt text](<Screenshot (28).png>)
-
-![alt text](<Screenshot (29).png>)
+![alt text](image-3.png)
 
 
 
